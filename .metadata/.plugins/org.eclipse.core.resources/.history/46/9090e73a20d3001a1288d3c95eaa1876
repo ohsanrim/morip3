@@ -1,0 +1,7 @@
+/* 슬라이더를 자동으로이동 */
+$('.morip_banner_slider').slick({
+	slidesToShow: 3,
+	slidesToScroll: 1,
+	autoplay: true,
+	autoplaySpeed: 2000,
+});

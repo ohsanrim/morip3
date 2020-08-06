@@ -1,0 +1,46 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>morip main.jsp</title>
+  <link rel="stylesheet" href="../css/main.css">
+</head>
+<body>
+ <table id="mainTable">
+  <tr>
+   <td id="header" >   
+   </td>
+  </tr>
+  
+  <tr>  
+   <td id="body">
+   <div>
+   <pre>
+     klasljf
+     as
+     fas
+     dflaklsjdfklasjkdf
+     as
+     df
+     asd
+     f
+     asdf
+     
+     d
+     fas     
+     </pre>
+     </div>
+     
+   </td>
+  </tr>
+  
+  <tr>
+   <td id="footer">
+     <%-- <jsp:include page="../template/bottom.jsp"/> --%>
+   </td>
+  </tr>
+ </table>
+</body>
+</html>

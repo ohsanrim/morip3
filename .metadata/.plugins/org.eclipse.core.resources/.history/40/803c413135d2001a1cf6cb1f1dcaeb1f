@@ -1,0 +1,31 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<head>
+<link rel="stylesheet" href="../css/main.css">
+</head>
+  <body>
+    <header>
+      <div class="header">
+      <!-- 메인로고 -->
+      <div class="header_logo">
+        <a href="#">
+          <img src="../image/logo2.png" alt=메인로고>
+        </a>
+      </div>
+      <!-- 가운데 메뉴 -->
+      <div class="header_menu">
+        <ul class="menu_bar">
+          <li><a href="#">블로그</a></li>
+          <li><a href="#">지역맛집</a></li>
+          <li><a href="#">커뮤니티</a></li>
+          <li><a href="#">고객센터</a></li>
+        </ul>
+      </div>
+      <!-- 로그인 버튼 -->
+      <div class="header_loginBtn">
+      	<button type="button" id="header_loginBtn"></button>
+      </div>
+      </div>
+    </header>
+  </body>
+</html>

@@ -1,0 +1,53 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<head>
+  <link rel="stylesheet" href="../css/main.css">
+  <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+</head>
+<body>
+<footer>
+  <div class="footer">
+	<div class="box1">
+	  <h4>CONTACT US</h4>
+		<P class="tel">가맹문의전화▼</P>
+		<p>
+			<A href="#>">TEL.1899-5685 클릭!</A>
+		</p>
+		<p class="time">상담시간 10:00 - 18:00</p>
+		
+		<div>
+		  <img alt="" src="../imgae/logo.png">
+		</div>
+		
+		<address>
+			상호명 : ㈜요기~ 오똔데 | MORIP |<br> 주소 : 서울시 서초구 강남대로 459 (서초동, 백암빌딩)
+			202호 (주)요기~ 오똔데 |<br> 사업자등록번호 : 123-45-67890 |<br> E-mail
+			: oddondea@gmail.com<br>
+		</address>
+	</div>
+
+<div class="box2">
+	<h4>NEWS</h4>
+	<ul>
+		<li>[news] 컴포즈커피 서울, 경기권 지원 프로모션! 47...</li>
+		<li>[news] 47회 프랜차이즈 창업 박람회 SETEC(서울...</li>
+		<li>[시즌메뉴 출시]컴포즈커피 슈크림라떼</li>
+	</ul>
+</div>
+
+<div class="box3">
+	<h4>COMPANY SNS</h4>
+	<ul>
+		<li><a href="#"> <img src="../image/sns1.png">
+		</a></li>
+		<li><a href="#"> <img src="../image/sns2.png">
+		</a></li>
+		<li><a href="#"> <img src="../image/sns3.png">
+		</a></li>
+		<li><a href="#"> <img src="../image/sns4.png">
+		</a></li>
+	</ul>
+</div>
+  </div>
+</footer>
+</body>

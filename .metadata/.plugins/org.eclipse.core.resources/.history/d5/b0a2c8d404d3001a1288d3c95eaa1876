@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.introduce_morip {
+	margin: 60px 10px 0 10px;
+	height: 70px;
+}
+
+.introduce_morip .morip_text {	
+	font-family: sans-serif;
+	font-size: 30px;	
+	color: #222;
+	float: left;
+}
+
+.introduce_morip span{
+	font-family: 'Indie Flower', cursive;
+	color: blue;
+}
+
+.introduce_morip .morip_description{
+	margin-top: 10px;
+	margin-left: 44px;
+	width: 400px;
+	height: 66px;
+	opacity: .7;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.57;
+	letter-spacing: normal;
+	color: #222;
+	float: left;
+	text-align: left;
+	1120 344
+}
+
+
